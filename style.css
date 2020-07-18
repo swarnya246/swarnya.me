@@ -1,9 +1,11 @@
 body {
 	background-color: #f2f4f7;
-	display: block;
-	margin-left: 16.9em;
-    margin-right: 16.9em;
-	margin-top: 4.1em;
+	max-width: 53em;
+	height: auto;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: left;
+	margin-top: 3.8em;
 }
 
 .bold {
