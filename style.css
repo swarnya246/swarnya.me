@@ -1,0 +1,16 @@
+body {
+	background-color: #f2f4f7;
+	margin-left: 300px;
+	margin-right: 300px;
+	margin-top: 75px;
+}
+
+h1 {
+	font-family: 'Carmen Sans', sans-serif;
+	font-size: 40px;
+}
+
+a {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 40px;
+}
