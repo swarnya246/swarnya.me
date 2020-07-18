@@ -21,9 +21,10 @@ a {
 }
 
 .links {
+	margin: auto;
 	display: flex;
 	flex-direction: row;
 	flex-wrap: nowrap;
 	justify-content: space-between;
-	width: 50%;
+	max-width: 30em;
 }
