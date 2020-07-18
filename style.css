@@ -5,7 +5,7 @@ body {
 	margin-top: 75px;
 }
 
-h1 {
+.bold {
 	font-family: 'Carmen Sans', sans-serif;
 	font-size: 40px;
 }
@@ -13,4 +13,12 @@ h1 {
 a {
 	font-family: 'Quicksand', sans-serif;
 	font-size: 40px;
+}
+
+.links {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	width: 50%;
 }
