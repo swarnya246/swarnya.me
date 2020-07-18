@@ -9,6 +9,7 @@ body {
 }
 
 .bold {
+	font-family: 'Quicksand', sans-serif;
 	font-family: 'Carmen Sans', sans-serif;
 	font-size: 2.2rem;
 }
