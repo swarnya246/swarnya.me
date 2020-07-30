@@ -47,6 +47,5 @@ p {
 }
 
 .username:hover {
-	color: white;
-	background-color: black;
+	font-style: italic;
 }
