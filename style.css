@@ -40,3 +40,13 @@ p {
 	text-decoration: none;
 	text-align: right;
 }
+
+.username {
+	display: flex;
+	justify-content: right;
+}
+
+.username:hover {
+	color: white;
+	background-color: black;
+}
