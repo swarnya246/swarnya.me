@@ -33,7 +33,7 @@ p {
 	flex-direction: row;
 	flex-wrap: nowrap;
 	justify-content: space-between;
-	max-width: 60%;
+	max-width: 40%;
 }
 
 .footer {
