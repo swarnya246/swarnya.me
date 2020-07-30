@@ -48,4 +48,5 @@ p {
 .right {
 	display: flex;
 	justify-content: right;
+	font-size: 105%;
 }
