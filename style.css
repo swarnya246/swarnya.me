@@ -33,7 +33,7 @@ p {
 	flex-direction: row;
 	flex-wrap: nowrap;
 	justify-content: space-between;
-	max-width: 40%;
+	max-width: 50%;
 }
 
 .footer {
@@ -48,5 +48,5 @@ p {
 .right {
 	display: flex;
 	justify-content: right;
-	font-size: 105%;
+	font-size: 200%;
 }
