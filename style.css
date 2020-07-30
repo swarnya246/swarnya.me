@@ -18,6 +18,10 @@ body {
 	font-size: 105%;
 }
 
+.bold:hover {
+	font-style: italic;
+}
+
 p {
 	font-family: 'Quicksand', sans-serif;
 	font-size: 210%;
@@ -41,11 +45,7 @@ p {
 	text-align: right;
 }
 
-.username {
+.right {
 	display: flex;
 	justify-content: right;
-}
-
-.username:hover {
-	font-style: italic;
 }
