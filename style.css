@@ -46,7 +46,6 @@ p {
 }
 
 .right {
-	display: flex;
-	justify-content: right;
+	text-align: right;
 	font-size: 200%;
 }
